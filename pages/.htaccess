@@ -1,0 +1,5 @@
+Require all granted
+
+<Files "seed_admin.php">
+    Require all denied
+</Files>
